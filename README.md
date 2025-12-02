@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=blue" alt="Profile views">
-</p>
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/97839395/233089025-a134d19b-c430-47fa-8051-50e5033c467a.gif" width="40" alt="Wave GIF"> 
   Hey there, I'm Akshat!
 </h1>
 
